@@ -1,0 +1,388 @@
+    1  git config --global http.sslbackend schannel
+    2  git config --list
+    3  git config --list
+    4  ls
+    5  cd Local\ Settings/
+    6  cd-
+    7  cd~
+    8  clear
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd Documents/
+   13  ls
+   14  c ..
+   15  cd ..
+   16  cd deskcd c:
+   17  cd c:
+   18  ls
+   19  cd OneDriveTemp/
+   20  ls
+   21  ls
+   22  C ..
+   23  CD ..
+   24  cd ..
+   25  cd ..
+   26  ls
+   27  cd desktopcddcdcdmlnsdknasls
+   28  ls
+   29  lslslslsls
+   30  cd desk5top
+   31  cd desktop
+   32  cd\docu~1\(username)\desktop
+   33  ls
+   34  cd C:
+   35  ls
+   36  cd OneDriveTemp/
+   37  ls
+   38  ls
+   39  cd C:
+   40  ls
+   41  cd Users/
+   42  ls
+   43  cd CP344737/
+   44  ls
+   45  cd OneDrive\ -\ Capitec\ Bank\ Ltd/
+   46  ls
+   47  cd desktop
+   48  ls
+   49  cd '/c/Users/CP344737/OneDrive - Capitec Bank Ltd/Learnership Coding Dojo'
+   50  ls
+   51  git clone [200~https://github.com/choi5983/1942.git~
+   52  ls
+   53  git clone https://github.com/choi5983/1942.git
+   54  ls
+   55  cd C:
+   56  ls
+   57  cd Users/
+   58  ls
+   59  cd CP344737/
+   60  ls
+   61  cd OneDrive\ -\ Capitec\ Bank\ Ltd/
+   62  ls
+   63  cd desktop
+   64  mkdir test
+   65  ls
+   66  mkdir 'test'
+   67  mkdir test
+   68  ls
+   69  cd test
+   70  echo > index.html
+   71  echo > styles.css
+   72  echo > commands.txt
+   73  copy index.html index_2.html
+   74  copy index.html index_2.html
+   75  cd ..
+   76  mkdir destination
+   77  cd test
+   78  xcopy index.html index_2.html /i
+   79  xcopy index.html index_2.html
+   80  [200~C
+   81  move index_2.html C:\Users\CP344737\~\OneDrive - Capitec Bank Ltd\desktop\destination
+   82  move index_2.html C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\destination
+   83  robocopy C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\test C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\destination index_2.html
+   84  robocopy C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\test C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\destination index_2.html
+   85  git config --global --list
+   86  git config --global color.ui "auto"
+   87  cd C:
+   88  ls
+   89  cd Users/CP344737/OneDrive\ -\ Capitec\ Bank\ Ltd/Learnership\ Coding\ Dojo/
+   90  mkdir new_project
+   91  cd new_project/
+   92  git init
+   93  git status
+   94  git add index.html
+   95  git status
+   96  git commit -m "added meta charset and title tag to index.htm"
+   97  git log
+   98  cd C:
+   99  cd Users/CP344737/OneDrive\ -\ Capitec\ Bank\ Ltd/desktop
+  100  ls
+  101  cd test
+  102  del commands.txt
+  103  del commands.txt
+  104  c ..
+  105  cd ..
+  106  mkdir test
+  107  cd test
+  108  echo index.html
+  109  echo styles.css
+  110  git init
+  111  git add .
+  112  git status
+  113  git add index.html
+  114  echo > index.html
+  115  echo > styles.css
+  116  git add .
+  117  git status
+  118  git commit -m "this is my initial commit"
+  119  <html lang="en">
+  120  <head>
+  121      <meta charset="UTF-8">
+  122      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  123      <link rel="stylesheet" href="styles.css">
+  124      <title>Git</title>
+  125  </head>
+  126  <body>
+  127      <h1>Learning how to use git is awesome</h1>
+  128  </body>
+  129  </html>git status
+  130  C;
+  131  cd C;
+  132  cd C:
+  133  cd Users/CP344737/OneDrive\ -\ Capitec\ Bank\ Ltd/desktop
+  134  cd test
+  135  ls
+  136  git add index.html
+  137  git status
+  138  git commit -m "update html"
+  139  git add styles.css
+  140  git status
+  141  git commit -m "update css"
+  142  git log
+  143  git log
+  144  git revert commit e99d21
+  145  git revert e99d21
+  146  git add styles.css
+  147  git status
+  148  got commit -m "Reapply changes after reverting"
+  149  git add styles.css
+  150  git status
+  151  git revert e99d21
+  152  git log
+  153  echo These are some of the commands I used > commands.txt
+  154  echo echo >> commands.txt
+  155  echo cd >> commands.txt
+  156  echo type >> commands.txt
+  157  echo mkdir >> commands.txt
+  158  echo git init >> commands.txt
+  159  echo git status >> commands.txt
+  160  echo git add >> commands.txt
+  161  echo git add . >> commands.txt
+  162  echo git commit -m"" >> commands.txt
+  163  echo got log >> commands.txt
+  164  echo git revert >> commands.txt
+  165  echo git push >> commands.txt
+  166  cd C:
+  167  cd Users/CP344737/OneDrive\ -\ Capitec\ Bank\ Ltd/desktop
+  168  cd test
+  169  git remote add origin https://github.com/1809/test.git
+  170  git remote -v
+  171  git push origin master
+  172  git remote add origin https://github.com/Wesley1809/Wesley1809.git
+  173  git push origin master
+  174  git remote add origin https://github.com/wesley1809.git
+  175  git remote add origin https://github.com/Wesley1809/origin.git
+  176  git push -u origin main
+  177  git push origin master
+  178  git push test master
+  179  cd C:
+  180  cd Users/CP344737/OneDrive\ -\ Capitec\ Bank\ Ltd/Learnership\ Coding\ Dojo/
+  181  mkdir basic_repo
+  182  cd basic_repo/
+  183  git init
+  184  echo I love git :) > commands.txt
+  185  echo i love git > commands.txt
+  186  echo i love html > index.html
+  187  git add .
+  188  git status
+  189  git commit -m "This is my initial commit"
+  190  git log
+  191  git remote -v
+  192  git remote add origin https://github.com/wesley1809/basic_repo.git
+  193  git push -u origin master
+  194  git clone https://github.com/wesley1809/basic_repo.git
+  195  cd basic_repo/
+  196  git status
+  197  git add .
+  198  git status
+  199  git commit -m "Changes made and some text added as per assignment request"
+  200  git push origin master
+  201  mkdir packages
+  202  cd ..
+  203  mkdir packages
+  204  echo > secret.js
+  205  mkdir log
+  206  echo log.txt
+  207  echo > log.age
+  208  log.txt
+  209  echo > log.txt
+  210  echo > git.css
+  211  echo > .gitignore
+  212  git add .
+  213  git status
+  214  git restore --staged
+  215  git restore --staged basic_repo
+  216  git restore --staged commands.txt
+  217  git status
+  218  git add .
+  219  git status
+  220  git commit -m "added .gitignore file"
+  221  git push origin master
+  222  git remote add origin https://github.com/wesley1809/basic_repo.git
+  223  git push -u origin master
+  224  cd basic_repo/
+  225  git add .
+  226  git status
+  227  git add .
+  228  git status
+  229  git add index.html
+  230  git status
+  231  git add .
+  232  git status
+  233  cd --
+  234  cd c:
+  235  cd Users/CP344737/OneDrive\ -\ Capitec\ Bank\ Ltd/Learnership\ Coding\ Dojo/basic_repo
+  236  git add .
+  237  cd basic_repo/
+  238  git add .
+  239  git status
+  240  git push -u master
+  241  cd ..
+  242  git add .
+  243  git status
+  244  git status
+  245  git log
+  246  git add .
+  247  git status
+  248  ls
+  249  git add .
+  250  git status
+  251  git push -u master
+  252  git push -u main
+  253  git init
+  254  git add .
+  255  git status
+  256  git commit -m "added .gitignore file"
+  257  ls
+  258  echo I love java script and git >> secret.js
+  259  git add .
+  260  git status
+  261  git push -u origin master
+  262  git fetch basic_repo
+  263  git fetch origin
+  264  git merge origin/master
+  265  git add .
+  266  git merge --continue
+  267  git push origin master
+  268  git log
+  269  git status
+  270  git add .
+  271  git status
+  272  ls
+  273  clear
+  274  cd ..
+  275  git clone https://github.com/wesley1809/git_demo.git
+  276  cd git_demo/
+  277  ls
+  278  git add demo_index.html
+  279  git status
+  280  git push origin main
+  281  git commit -m "I made changes to demo_index.html"
+  282  git status
+  283  git push -u origin master
+  284  cd c:
+  285  cd Users/CP344737/OneDrive\ -\ Capitec\ Bank\ Ltd/desktop
+  286  mkdir branching_merging
+  287  cd branching_merging/
+  288  git init
+  289  echo > index.html
+  290  git status
+  291  git add .
+  292  git commit -m "Initial commit"
+  293  git status
+  294  git log
+  295  git branch
+  296  git checkout -b "add-css"
+  297  git branch
+  298  git status
+  299  git checkout css-style
+  300  git checkout add-css
+  301  git checkout master
+  302  git status
+  303  checkout add-css
+  304  git checkout add-css
+  305  git status
+  306  git add .
+  307  git commit -m "added css"
+  308  git checkout master
+  309  git checkout master
+  310  git checkout add-css
+  311  git checkout master
+  312  git merge add-css
+  313  keytool -import -file C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\spring.io.za -keystore app.keystore -alias spring.io.za
+  314  keystore name
+  315  -?
+  316  -h
+  317  --help
+  318  -keystore
+  319  - keystore <keystore>
+  320  [200~-keystore <keystore>~
+  321  keytool -import -file C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\spring.io_za -keystore app.keystore -alias spring.io_za
+  322  keytool -?
+  323  clear
+  324  keytool -import -file C:\Users\CP344737\OneDrive - Capitec Bank Ltd\Desktop\spring.cer -keystore app.keystore -alias spring
+  325  -keypass
+  326  -alias spring
+  327  ls
+  328  [200~mvn clean install
+  329  ls
+  330  cd OneDrive\ -\ Capitec\ Bank\ Ltd/
+  331  ls
+  332  cd Learnership\ Coding\ Dojo/
+  333  mkdir git-basic-exercises
+  334  cd git-basic-exercises/
+  335  ls -a
+  336  git init
+  337  ls a-
+  338  ls -a
+  339  git status
+  340  touch README.md
+  341  ls -a
+  342  git status
+  343  git log
+  344  git add README.md
+  345  git status
+  346  git reset README.md
+  347  git status
+  348  git add README.md
+  349  git commit -m "initial commit"
+  350  git log
+  351  nano README.md
+  352  cat README.md
+  353  git status
+  354  git commit -m "second commit"
+  355  git add README.md
+  356  git status
+  357  git commit -m "second commit"
+  358  nano README.md
+  359  git status
+  360  git add README.md
+  361  git status
+  362  git commit -m "third commit"
+  363  git log
+  364  q
+  365  git checkout dd5f1900f224f49b91306b0856e2a7c99b2b5836
+  366  cat README.md
+  367  git checkout main
+  368  cat README.md
+  369  git checkout dd5f1900f224f49b91306b0856e2a7c99b2b5836
+  370  cat README.md
+  371  git checkout master
+  372  cat README.md
+  373  git branch
+  374  git branch milkshake-flavours
+  375  git branch
+  376  git checkout milkshake-flavours
+  377  git branch
+  378  nano milkshakes.md
+  379  git status
+  380  git add milkshakes.md
+  381  git commit -m "added initial flavours"
+  382  git log
+  383  git checkout master
+  384  git branch history
+  385  git checkout history
+  386  git log
+  387  git branch
+  388  history > history.txt
